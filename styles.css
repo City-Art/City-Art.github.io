@@ -1,0 +1,9 @@
+#main {
+    height:100%;
+    margin: 0 auto;
+}
+
+.container {
+    height: 100%;
+    overflow: auto;
+}
