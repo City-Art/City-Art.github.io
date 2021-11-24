@@ -7,3 +7,12 @@
     height: 100%;
     overflow: auto;
 }
+
+.row{
+    height: 100%;
+}
+
+.container .row .col-md-2 .col-md-10{
+    background: yellow;
+  height: 100%;
+}
