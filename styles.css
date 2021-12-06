@@ -12,14 +12,13 @@ html, body {
   margin-right: 0 auto;
   }
 
-#main {
-    height:100%;
+.main {
     margin: 0 auto;
+    height: 95.7%;
 }
 
 .container {
     height: 100%;
-   /* overflow: auto; */
 }
 
 .row{
@@ -28,9 +27,20 @@ html, body {
 
 .container .row .col-md-2 .col-md-10{
     background: yellow;
-  height: 100%;
 }
 
 .background{
     background-color: #D0D6DC;
+}
+
+.open {
+    padding-top: 15px;
+}
+
+.opentimes {
+    width: 50%;
+}
+
+.flex-fill {
+    width:50%
 }
