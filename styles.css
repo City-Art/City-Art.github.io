@@ -44,3 +44,16 @@ html, body {
 .flex-fill {
     width:50%
 }
+
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar {
+    padding-right: 200px;
+    
+}
+
+.nav-item {
+    background: #e47f83;
+}
