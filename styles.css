@@ -37,10 +37,6 @@ html, body {
     padding-top: 15px;
 }
 
-.opentimes {
-    width: 35%;
-}
-
 .flex-fill {
     width:50%
 }
@@ -51,4 +47,8 @@ html, body {
 
 .nav-item {
     background: #e47f83;
+}
+
+.opentimes {
+    background-color: #D0D6DC;
 }
